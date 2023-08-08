@@ -1,0 +1,38 @@
+# 分支管理
+
+electron 的分支管理：
+
+补丁包 / 标准包 / 功能包 / 定制包
+
+稳定分支
+
+1.5.x
+
+1.6.x
+
+2.0.x
+
+tag：
+
+v1.5.1
+
+v1.5.1-custom.fujiannongxin
+
+v1.6.1
+
+v2.0.1
+
+release: 
+
+v1.5.1
+
+v1.5.1-custom.fujiannongxin
+
+v1.6.1
+
+v2.0.1
+
+
+
+
+
